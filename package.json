@@ -1,0 +1,46 @@
+{
+  "name": "moxy-ps",
+  "version": "0.1.0",
+  "private": false,
+  "description": "PubSub system for MoxyScript",
+  "main": "moxy-ps.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.24",
+    "@types/sinon": "^7.5.1",
+    "chai": "^4.2.0",
+    "grunt": "^1.0.4",
+    "grunt-ts": "^6.0.0-beta.22",
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.2",
+    "sinon": "^7.5.0",
+    "ts-jest": "^24.2.0",
+    "tslint": "^5.20.1",
+    "typescript": "3.7.2"
+  },
+  "scripts": {
+    "test": "jest tests/*",
+    "build": "grunt",
+    "server": "nodemon ./index.js localhost 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcmox/moxy-pubsub.git"
+  },
+  "keywords": [
+    "debounce",
+    "retry"
+  ],
+  "author": "Daniel Moxon (dancmox@comcast.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcmox/moxy-pubsub/issues"
+  },
+  "homepage": "https://github.com/dcmox/moxy-pubsub#readme",
+  "dependencies": {
+    "@dcmox/stencil-js": "^1.0.7",
+    "express": "^4.17.1"
+  }
+}

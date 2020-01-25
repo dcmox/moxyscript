@@ -1,9 +1,23 @@
-# moxyscript
-MoxyScript is a JavaScript / NodeJS Framework for application development
+# MoxyScript
+MoxyScript is a JavaScript / NodeJS Framework for application development.
+
+## Mission
+The mission of MoxyScript (and WebDev.AI) is to automate web development in the most natural and seamless way possible using the least amount of dependencies (we love developing things from scratch). It won't happen overnight, but with enough effort and contributions from the open source community, we aim to make it happen!
+
+## Purpose
+* Expressing the author's creativity and ideas freely and openly
+* Reducing dependence on external frameworks and tooling
+* Creating a project not muddled by corporate or political interests
+* Incorporating emerging and growing technologies such as AI and blockchain
+* Freedom of choice
+* Experimentation and innovation
+
+Should any of the above goals be broken, this project too will be broken. MoxyScript was created by a developer for developers, not corporate agenda.
 
 ## Components 
 * [MoxyScript Stencil](https://github.com/dcmox/moxyscript-stencil) - An easy to use, logic-less template engine.
 * [Moxy CE](https://github.com/dcmox/moxyscript-conditions) - MoxyScript CE is a condition editor that allows you to reduce logic and complexity in your code by defining custom criteria. You can store the cached query in a database or in a file and use them to filter your data for various reasons.
+* [Moxy ORM](https://github.com/dcmox/moxy-orm) - MoxyORM is an object relationship mapper for fast generation of classes based on a schema or TS interface.
 
 ## Coming soon
 * Moxy Script Analytics - This will enable you to gain valuable insights into user behavior on your website.
