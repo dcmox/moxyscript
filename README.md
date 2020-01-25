@@ -4,7 +4,7 @@ MoxyScript is a JavaScript / NodeJS Framework for application development.
 ## Mission
 The mission of MoxyScript (and WebDev.AI) is to automate web development in the most natural and seamless way possible using the least amount of dependencies (we love developing things from scratch). It won't happen overnight, but with enough effort and contributions from the open source community, we aim to make it happen!
 
-## Purpose
+## Purpose and Goals
 * Expressing the author's creativity and ideas freely and openly
 * Reducing dependence on external frameworks and tooling
 * Creating a project not muddled by corporate or political interests

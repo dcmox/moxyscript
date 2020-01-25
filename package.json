@@ -1,9 +1,9 @@
 {
-  "name": "moxy-ps",
+  "name": "moxyscript",
   "version": "0.1.0",
   "private": false,
-  "description": "PubSub system for MoxyScript",
-  "main": "moxy-ps.js",
+  "description": "MoxyScript Framework",
+  "main": "moxyscript.ts",
   "engines": {
     "node": ">=4.0.0"
   },
@@ -27,18 +27,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcmox/moxy-pubsub.git"
+    "url": "git+https://github.com/dcmox/moxyscript.git"
   },
   "keywords": [
     "debounce",
     "retry"
   ],
   "author": "Daniel Moxon (dancmox@comcast.net)",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dcmox/moxy-pubsub/issues"
+    "url": "https://github.com/dcmox/moxyscript/issues"
   },
-  "homepage": "https://github.com/dcmox/moxy-pubsub#readme",
+  "homepage": "https://github.com/dcmox/moxyscript#readme",
   "dependencies": {
     "@dcmox/stencil-js": "^1.0.7",
     "express": "^4.17.1"
