@@ -41,6 +41,6 @@
   "homepage": "https://github.com/dcmox/moxyscript#readme",
   "dependencies": {
     "@dcmox/stencil-js": "^1.0.7",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
